@@ -1,8 +1,8 @@
 ### Hi everone 👋
 
 - 🔭 I’m currently working on my own busines, as informal job, but non dev job yet. However I am looking for a software        development job between 18:00 and 00:00 to start my career
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT;
-   - And I'm interested in learning NODE, REACT NATIVE, ANGULAR, TYPESCRIPT, PYTHON, C#, and as much as possible, learning       is never too much, since I want to become a fullstack dev
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT...
+   - And I'm interested in learning NODE, REACT NATIVE, ANGULAR, PYTHON, C#, and as much as possible, learning       is never too much, since I want to become a fullstack dev
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about:
