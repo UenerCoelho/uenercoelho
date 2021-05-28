@@ -1,6 +1,6 @@
-<h3>Hi everone 👋</h3>
+<h3 align="center">Hi everone 👋 I'm Uener Coelho</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uenercoelho" alt="uenercoelho" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uenercoelho" alt="uenercoelho" /> </p>
 
 - 🔭 I’m currently working on my own busines, as informal job, but non dev job yet. However I am looking for a software        development job between 18:00 and 00:00 to start my career
 - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/typescript-icon.svg" alt="typescript" width="20" height="20"/>
