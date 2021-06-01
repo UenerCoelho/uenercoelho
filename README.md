@@ -16,3 +16,6 @@
     - If you were curious about me, contact me, maybe we can work together?
 - 📫 How to reach me:
       - hunterucr@gmail.com
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uenercoelho&show_icons=true" alt="uenercoelho"/> 
+</p>
