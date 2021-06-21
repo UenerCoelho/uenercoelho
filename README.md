@@ -19,3 +19,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uenercoelho&show_icons=true" alt="uenercoelho"/> 
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenercoelho&langs_count=8&hide=html,css&layout=compact"/>
+</p>
