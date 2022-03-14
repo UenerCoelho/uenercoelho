@@ -6,9 +6,7 @@
 - 🔭 I’m currently working on my own business, as informal job, but non dev job yet. However I am looking for a software development job to start my career, for now, I wanna an unconvetional job time.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 😏 Fun fact: I love to play mmoRPG, like lineage II, WoW, AION, etc.
-  - If you like, we can play together.
-- If you were curious about me, contact me, maybe we can work together?
+- If you were curious about me, contact me, maybe we can work together?!
 - 📫 How to reach me: - uenercoelho2@hotmail.com
 
 <h3 align="center">I’m currently learning:</h3>
