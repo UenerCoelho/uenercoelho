@@ -7,7 +7,9 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - If you were curious about me, contact me, maybe we can work together?!
-- 📫 How to reach me: - uenercoelho2@hotmail.com
+- 📫 How to reach me: 
+  * uenercoelho2@hotmail.com
+  * https://www.linkedin.com/in/uenercoelho/
 
 <h3 align="center">I’m currently learning:</h3>
 <p align="center">
