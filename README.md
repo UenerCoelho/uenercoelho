@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uenercoelho" alt="uenercoelho" /> </p>
 
 ### I'm a Husband, Father, Developer, and sometimes a Teacher 😁
-- 🔭 I’m currently working on my own business, as informal job, but non dev job yet. However I am looking for a software development job to start my career, for now, I wanna an unconvetional job time.
+- 🔭 I’m currently working on my own business, as informal job, but non dev job yet. However I am looking for a software development job, for now, I wanna an unconvetional job time (15h-22h -4:00 GMT).
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - If you were curious about me, contact me, maybe we can work together?!
