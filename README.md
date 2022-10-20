@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uener</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working in **my own career**
+- 🔭 I'm currently working on **my own career**, but I'm open to new projects and experiences.
 
 - 🌱 I’m currently learning **```.html ``` , ```.css ``` , ```.js ``` , ```.ts ```**, and more.
 
