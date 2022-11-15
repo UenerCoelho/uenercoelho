@@ -62,7 +62,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uenercoelho&show_icons=true&theme=tokyonight" alt="uenercoelho" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uenercoelho&show_icons=true&locale=en&layout=compact" alt="uenercoelho" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uenercoelho&show_icons=true&locale=en&layout=compact" alt="uenercoelho" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenercoelho&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="uenercoelho" />
 </p>
 
 <!-- <p align="center"> 
