@@ -5,16 +5,16 @@
 
 - 🔭 I'm currently working on **my own career**, but I'm open to new projects and experiences.
 
-- 🌱 I’m currently learning **```.html ``` , ```.css ``` , ```.js ``` , ```.ts ```**, and more.
+- 🌱 I’m currently learning **`.html ` , `.css ` , `.js ` , `.ts `**, and more.
 
 - 👯 I’m looking to collaborate with **anyone for work together**
 
 - 🤝 I’m looking for help with **found a job for junior**
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - **uenercoelho2@hotmail.com**
   - <a href="https://linkedin.com/in/uenercoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uenercoelho" height="30" width="40" /></a> **https://www.linkedin.com/in/uenercoelho/**
-    
+
 <!-- <h3 align="center">Connect with me:
   <p align="center">
   </p>
@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenercoelho&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a" alt="uenercoelho" />
 </p>
 
-<!-- <p align="center"> 
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=uenercoelho" alt="uenercoelho" />
   </a>
@@ -77,5 +77,15 @@
   <a href="https://uenercoelho.github.io/CatitaSobrancelhas/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
-</p><br />
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark)](github.com/anuraghazra/github-readme-stats) -->
+</p>
+<p align="center">
+  <a href="https://uenercoelho.github.io/lampJS/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://uenercoelho.github.io/podcastr/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+  </a>
+</p>
+<br />
