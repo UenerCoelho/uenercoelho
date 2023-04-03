@@ -72,5 +72,5 @@
   </a>
 </p>
  -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas.github.io&theme=dark)](github.com/anuraghazra/github-readme-stats)
+<h3>Proetos</h3>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas.github.io&theme=dark)](github.com/anuraghazra/github-readme-stats) -->
