@@ -80,12 +80,12 @@
 </p>
 <p align="center">
   <a href="https://uenercoelho.github.io/lampJS/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=lampJS&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
 </p>
 <p align="center">
   <a href="https://uenercoelho.github.io/podcastr/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=podcastr&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
 </p>
 <br />
