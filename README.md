@@ -74,6 +74,8 @@
  -->
 <h3>Projects</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+  <a href="https://uenercoelho.github.io/CatitaSobrancelhas/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
+  </a>
 </p><br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark)](github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark)](github.com/anuraghazra/github-readme-stats) -->
