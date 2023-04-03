@@ -72,7 +72,7 @@
   </a>
 </p>
  -->
-<h3>Projects</h3>
+<!-- <h3>Projects</h3>
 <p align="start">
   <a href="https://uenercoelho.github.io/CatitaSobrancelhas/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
@@ -89,3 +89,4 @@
   </a>
 </p>
 <br />
+ -->
