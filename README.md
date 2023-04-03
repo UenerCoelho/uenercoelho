@@ -73,18 +73,18 @@
 </p>
  -->
 <h3>Projects</h3>
-<p align="center">
+<p display="flex">
   <a href="https://uenercoelho.github.io/CatitaSobrancelhas/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
 </p>
-<p align="center">
+<p display="flex">
   <a href="https://uenercoelho.github.io/lampJS/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=lampJS&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://uenercoelho.github.io/podcastr/">
+<p display="flex">
+  <a href="https://github.com/UenerCoelho/podcastr">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=podcastr&theme=dark" alt="Catia Sobrancelhas Project"/>
   </a>
 </p>
