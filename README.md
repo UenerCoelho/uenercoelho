@@ -76,4 +76,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark" alt="Catia Sobrancelhas Project"/>
 </p><br />
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas.github.io&theme=dark)](github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uenercoelho&repo=CatitaSobrancelhas&theme=dark)](github.com/anuraghazra/github-readme-stats)
