@@ -11,9 +11,11 @@
 
 <!-- - 🤝 I’m looking for help with **found a job for junior** -->
 
+<!--
 - 📫 How to reach me:
   - **uenercoelho2@hotmail.com**
   - <a href="https://linkedin.com/in/uenercoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uenercoelho" height="30" width="40" /></a> **https://www.linkedin.com/in/uenercoelho/**
+-->
 
 <!-- <h3 align="center">Connect with me:
   <p align="center">
