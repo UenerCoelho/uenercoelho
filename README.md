@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **`.html ` , `.css ` , `.js ` , `.ts `**, and more.
 
-- 👯 I’m looking to collaborate with **anyone for work together**
+<!-- - 👯 I’m looking to collaborate with **anyone for work together** -->
 
-- 🤝 I’m looking for help with **found a job for junior**
+<!-- - 🤝 I’m looking for help with **found a job for junior** -->
 
 - 📫 How to reach me:
   - **uenercoelho2@hotmail.com**
