@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uenercoelho&label=Profile%20views&color=0e75b6&style=flat" alt="uenercoelho" /> </p>
 
-<h1 align="center">Hi 👋, I'm Uener</h1>
+<!-- <h1 align="center">Hi 👋, I'm Uener</h1> -->
 <!-- <h3 align="center">A passionate developer</h3> -->
 
-- 🔭 I'm currently working on **my own career**, but I'm open to new projects and experiences.
+<!-- - 🔭 I'm currently working on **my own career**, but I'm open to new projects and experiences. -->
 
-- 🌱 I’m currently learning **`.html ` , `.css ` , `.js ` , `.ts `**, and more.
+<!-- - 🌱 I’m currently learning **`.html ` , `.css ` , `.js ` , `.ts `**, and more. -->
 
 <!-- - 👯 I’m looking to collaborate with **anyone for work together** -->
 
