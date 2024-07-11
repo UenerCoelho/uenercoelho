@@ -22,6 +22,7 @@
   </p>
 </h3> -->
 <!-- <h3 align="center">Languages and Tools:</h3> -->
+<!--
 <br>
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -44,7 +45,7 @@
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 <!--   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>  -->
@@ -59,9 +60,9 @@
   </a>  -->
 <!--   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>  -->
+  </a> 
 </p>
-
+ -->
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=uenercoelho&show_icons=true&theme=tokyonight" alt="uenercoelho" />
   <br /> -->
